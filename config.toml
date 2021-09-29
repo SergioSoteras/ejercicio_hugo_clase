@@ -1,0 +1,40 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'Universo Warcraft'
+theme= 'mediumish'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+
+  [[menu.main]]
+	identifier = "Alianza"
+	name = "Alianza"
+	title = "Alianza"
+	url = "/alianza/"
+	weight = 1
+
+  [[menu.main]]
+	identifier = "Horda"
+	name = "Horda"
+	title = "Horda"
+	url = "/horda/"
+	weight = 2
+
+  [[menu.main]]
+	identifier = "Contactanos"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 3
+
+  [[menu.main]]
+	identifier = "Busqueda"
+	name = "Busqueda"
+	title = "Busqueda"
+	url = "/search/"
+	weight = 4
+
+[params]
+ 	logo = "/img/logo.jpg"
