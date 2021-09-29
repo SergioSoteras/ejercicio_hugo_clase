@@ -9,4 +9,4 @@ Thrall, (llamado Go'el al nacer) hijo de Durotan, es el antiguo Jefe de Guerra d
 
 Es uno de los personajes más importantes del universo Warcraft, siendo fundamental en grandes eventos que moldearon la historia en Azeroth.
 
-![thrall](/img/thrall.jpg)
+![thrall](img/thrall.jpg)
