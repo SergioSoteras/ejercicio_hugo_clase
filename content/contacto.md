@@ -8,4 +8,4 @@ draft: false
 * C/Mayor Nº6 Orgrimmar 456452
 * universowarcraft@azeroth.com
   
-![contacto](/img/buzon.jpg)
+![contacto](img/buzon.jpg)

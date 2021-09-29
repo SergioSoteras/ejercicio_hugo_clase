@@ -1,7 +1,7 @@
 {{ define "header"}} {{- partial "_shared/navbar.html" . -}} {{ end }} {{ define
 "main" }}
 
-<div class="main-content" style="background-image: url('/img/banner.jpg')">
+<div class="main-content" style="background-image: url('img/banner.jpg')">
   <header class="text-center">
     {{ with .Site.Params.index.picture }}
     <img
@@ -34,7 +34,7 @@
   </section>
 </div>
 <div class="text-center">
-  <img src="/img/wow.jpg"/>
+  <img src="img/wow.jpg"/>
 </div>
 {{- partial "_shared/social.html" . -}} {{ if isset .Site.Params.index
 "alertbar" }} {{ if .Site.Params.index.alertbar }} {{- partial

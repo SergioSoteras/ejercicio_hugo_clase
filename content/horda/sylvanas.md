@@ -3,7 +3,7 @@ title: "Sylvanas"
 date: 2021-09-28T10:44:34+02:00
 draft: false
 faccion: "horda"
-image: "/img/sylvanas.jpg"
+image: "img/sylvanas.jpg"
 ---
 Lady Sylvanas Brisaveloz, titulada a veces también como "la Dama Oscura" o como "la Reina alma en pena", es la líder suprema de los Renegados, una de las facciones más poderosas de no-muertos en Azeroth. En vida, Sylvanas fue la General Forestal de Lunargenta, cuyo liderazgo y proezas marciales fueron sin igual. Durante la Tercera Guerra, defendió con valentía Quel'Thalas de una invasión de la Plaga dirigida por el caballero de la muerte Arthas Menethil. Al final, sin embargo, Sylvanas cayó en batalla. En lugar de honrar a la General Forestal con una muerte rápida, Arthas arrancó su alma y la transformó en una alma en pena: una agente astuta y vengadora del Rey Exánime, apoderada por el odio.
 
@@ -15,4 +15,4 @@ Después de la caída del Rey Exánime, Sylvanas llegó a la sorprendente conclu
 
 Después de haber sido herido de muerte durante la batalla por la Costa Abrupta, el Jefe de Guerra Vol'jin declaró a Sylvanas como su sucesora con su último aliento, dejándole el liderazgo de la Horda contra las fuerzas invasoras de la Legión Ardiente. Tras la derrota de la Legión, Sylvanas lidera a la Horda en contra de la Alianza en una guerra que se extiende por todo Azeroth.
 
-![sylvanas](/img/sylv.jpg)
+![sylvanas](img/sylv.jpg)

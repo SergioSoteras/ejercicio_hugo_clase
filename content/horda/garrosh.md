@@ -11,4 +11,4 @@ Durante la nueva guerra contra la Alianza, la sed de poder de Garrosh lo corromp
 
 Anticipándose a la Legión Ardiente, Garrosh contactó con los clanes orcos y juntos formaron la Horda de Hierro, a la que dotó de maquinaria y conocimientos de la época actual. Más tarde, envió un ejército comandado por Zaela a través del Portal Oscuro para destruir Ventormenta pero el ataque fue repelido y los ejércitos de Azeroth penetraron en el Draenor alternativo donde Thrall lo derrotó en un mak'gora.
 
-![garrosh](/img/garrosh.jpg)
+![garrosh](img/garrosh.jpg)
