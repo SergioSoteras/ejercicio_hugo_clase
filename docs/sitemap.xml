@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/horda/sylvanas/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/horda/sylvanas/</loc>
     <lastmod>2021-09-28T10:44:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/</loc>
     <lastmod>2021-09-28T10:44:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/alianza/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/alianza/</loc>
     <lastmod>2021-09-28T10:39:04+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/alianza/mekkatorque/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/alianza/mekkatorque/</loc>
     <lastmod>2021-09-28T10:39:04+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/horda/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/horda/</loc>
     <lastmod>2021-09-27T11:04:28+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/alianza/jaina/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/alianza/jaina/</loc>
     <lastmod>2021-09-27T10:41:31+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/alianza/arthas/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/alianza/arthas/</loc>
     <lastmod>2021-09-27T09:50:40+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/horda/thrall/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/horda/thrall/</loc>
     <lastmod>2021-09-27T09:50:26+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/contacto/</loc>
     <lastmod>2021-09-27T09:49:35+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/horda/garrosh/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/horda/garrosh/</loc>
     <lastmod>2021-09-21T10:46:04+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost/ejercicio-hugo-clase/tags/</loc>
   </url>
 </urlset>

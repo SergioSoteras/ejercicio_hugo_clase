@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost/ejercicio-hugo-clase/'
 languageCode = 'es-es'
 title = 'Universo Warcraft'
 theme= 'mediumish'
