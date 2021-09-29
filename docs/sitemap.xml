@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/ejercicio-hugo-clase/horda/sylvanas/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/horda/sylvanas/</loc>
     <lastmod>2021-09-28T10:44:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/</loc>
     <lastmod>2021-09-28T10:44:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/alianza/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/</loc>
     <lastmod>2021-09-28T10:39:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/alianza/mekkatorque/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/mekkatorque/</loc>
     <lastmod>2021-09-28T10:39:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/horda/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/horda/</loc>
     <lastmod>2021-09-27T11:04:28+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/alianza/jaina/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/jaina/</loc>
     <lastmod>2021-09-27T10:41:31+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/alianza/arthas/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/arthas/</loc>
     <lastmod>2021-09-27T09:50:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/horda/thrall/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/horda/thrall/</loc>
     <lastmod>2021-09-27T09:50:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/contacto/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/contacto/</loc>
     <lastmod>2021-09-27T09:49:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/horda/garrosh/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/horda/garrosh/</loc>
     <lastmod>2021-09-21T10:46:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/categories/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/categories/</loc>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/search/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost/ejercicio-hugo-clase/tags/</loc>
+    <loc>https://sergiosoteras.github.io/ejercicio_hugo_clase/tags/</loc>
   </url>
 </urlset>
