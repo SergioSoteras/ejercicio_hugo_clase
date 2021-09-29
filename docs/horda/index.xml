@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horda on Universo Warcraft</title>
+    <link>http://example.org/horda/</link>
+    <description>Recent content in Horda on Universo Warcraft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 27 Sep 2021 11:04:28 +0200</lastBuildDate><atom:link href="http://example.org/horda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sylvanas</title>
+      <link>http://example.org/horda/sylvanas/</link>
+      <pubDate>Tue, 28 Sep 2021 10:44:34 +0200</pubDate>
+      
+      <guid>http://example.org/horda/sylvanas/</guid>
+      <description>Lady Sylvanas Brisaveloz, titulada a veces también como &amp;ldquo;la Dama Oscura&amp;rdquo; o como &amp;ldquo;la Reina alma en pena&amp;rdquo;, es la líder suprema de los Renegados, una de las facciones más poderosas de no-muertos en Azeroth. En vida, Sylvanas fue la General Forestal de Lunargenta, cuyo liderazgo y proezas marciales fueron sin igual. Durante la Tercera Guerra, defendió con valentía Quel&amp;rsquo;Thalas de una invasión de la Plaga dirigida por el caballero de la muerte Arthas Menethil.</description>
+    </item>
+    
+    <item>
+      <title>Thrall</title>
+      <link>http://example.org/horda/thrall/</link>
+      <pubDate>Mon, 27 Sep 2021 09:50:26 +0200</pubDate>
+      
+      <guid>http://example.org/horda/thrall/</guid>
+      <description>Thrall, (llamado Go&amp;rsquo;el al nacer) hijo de Durotan, es el antiguo Jefe de Guerra de la restaurada Horda chamanística y fundador de la nación de Durotar en Kalimdor. Tras la caída del Rey Exánime y la creciente invasión elemental que culminó en el Cataclismo, Thrall dejó el puesto de líder de la Horda y se unió al Anillo de la Tierra para combatir con los furiosos elementales.
+Es uno de los personajes más importantes del universo Warcraft, siendo fundamental en grandes eventos que moldearon la historia en Azeroth.</description>
+    </item>
+    
+    <item>
+      <title>Garrosh</title>
+      <link>http://example.org/horda/garrosh/</link>
+      <pubDate>Tue, 21 Sep 2021 10:46:04 +0200</pubDate>
+      
+      <guid>http://example.org/horda/garrosh/</guid>
+      <description>Garrosh Grito Infernal fue el Jefe de Guerra de la Horda, sucediendo a Thrall, tras la Devastación hasta que fue sucedido en el cargo por Vol&amp;rsquo;jin tras el Asedio de Orgrimmar. A lo largo de toda la historia de Azeroth, ha habido pocos mortales tan famosos como él.
+Garrosh creció en Draenor a la sombra de su padre, el gran guerrero Grommash Grito Infernal. Como Jefe de Guerra del clan Grito de Guerra, Grom fue el primer líder orco que bebió la sangre de Mannoroth, subyugando a los orcos a la voluntad de la Legión.</description>
+    </item>
+    
+  </channel>
+</rss>
