@@ -1,3 +1,7 @@
+{{ define "header"}}
+    {{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
 {{ define "footerfiles" }}
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
@@ -6,9 +10,6 @@
 {{ end }}
 {{ define "main" }}
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div>
-    <a href="https://sergiosoteras.github.io/ejercicio_hugo_clase//">Volver a la pagina de inicio</a>
-  </div>
   <div class="my-auto" >
     <form action="{{ "search" | absURL }}">
       <input id="search-query" name="s"/>
