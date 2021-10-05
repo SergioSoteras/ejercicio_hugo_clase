@@ -4,4 +4,5 @@ date: {{ .Date }}
 draft: false
 faccion: "alianza"
 image: ""
+tag: "alianza
 ---

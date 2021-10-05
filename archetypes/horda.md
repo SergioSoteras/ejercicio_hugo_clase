@@ -4,4 +4,5 @@ date: {{ .Date }}
 draft: false
 faccion: "horda"
 image: ""
+tag: "horda"
 ---
