@@ -2,6 +2,7 @@
 title: "Garrosh"
 date: 2021-09-21T10:46:04+02:00
 draft: false
+image: "garrosh/img/garrosh.jpg"
 ---
 Garrosh Grito Infernal fue el Jefe de Guerra de la Horda, sucediendo a Thrall, tras la Devastación hasta que fue sucedido en el cargo por Vol'jin tras el Asedio de Orgrimmar. A lo largo de toda la historia de Azeroth, ha habido pocos mortales tan famosos como él.
 

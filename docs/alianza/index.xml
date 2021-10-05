@@ -6,7 +6,44 @@
     <description>Recent content in Alianzas on Universo Warcraft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 28 Sep 2021 10:39:04 +0200</lastBuildDate><atom:link href="https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 10:35:53 +0200</lastBuildDate><atom:link href="https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magni</title>
+      <link>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/magni/</link>
+      <pubDate>Tue, 05 Oct 2021 10:35:53 +0200</pubDate>
+      
+      <guid>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/magni/</guid>
+      <description>Magni Bronzebeard es el actual rey enano de Khaz Modan, Señor de Forjaz y cabeza del clan Barbabronce.
+Es el mayor de los tres hermanos Barbabronce, estaba destinado a ser Rey de la Montaña. De brazo fuerte y mente avispada. Magni amaba a sus dos hermanos mas que a nada en el mundo. Durante la reciente caída de Lordaeron, Muradin fue presúntamente asesinado por el Caballero de la Muerte Arthas, luego de que éste tomara Frostmourne.</description>
+    </item>
+    
+    <item>
+      <title>Tyrande</title>
+      <link>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/tyrande/</link>
+      <pubDate>Tue, 05 Oct 2021 10:31:35 +0200</pubDate>
+      
+      <guid>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/tyrande/</guid>
+      <description>Tyrande Whisperwind es la suma sacerdotisa de la diosa Elune, la líder de las Hermanas de Elune, y la principal responsable del gobierno de los elfos nocturnos. Su corazón pertenece al archidruida Malfurion, con quien combatió en el pasado en muchas ocasiones contra los peligros que acecharon a su raza. Tyrande se encuentra actualmente el Templo de la Luna en la ciudad de Darnassus. </description>
+    </item>
+    
+    <item>
+      <title>Anduin</title>
+      <link>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/anduin/</link>
+      <pubDate>Tue, 05 Oct 2021 10:31:29 +0200</pubDate>
+      
+      <guid>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/anduin/</guid>
+      <description>Anduin Llane Wrynn es el Rey de Ventormenta, Alto Rey de la Alianza y comandante de todas las fuerzas de la Alianza después de la muerte de su padre, Varian Wrynn. Después del secuestro del Rey Varian cuando Anduin era solo un niño, fue nombrado Rey de Ventormenta bajo la regencia de Bolvar Fordragón hasta que Varian regresó. Años más tarde, asumió el trono de forma permanente tras la muerte de su padre en la Batalla por la Costa Abrupta durante la tercera invasión de la Legión Ardiente.</description>
+    </item>
+    
+    <item>
+      <title>Varian</title>
+      <link>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/varian/</link>
+      <pubDate>Tue, 05 Oct 2021 10:27:21 +0200</pubDate>
+      
+      <guid>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/varian/</guid>
+      <description>Varian Wrynn, también conocido como Lo&amp;rsquo;Gosh el &amp;ldquo;Lobo Fantasmal&amp;rdquo;,[3] es el hijo del fallecido rey Llane Wrynn y antiguo rey de Ventormenta.[4] Bajo su mandato, los humanos de Ventormenta llevaron a la Alianza a la victoria contra el Rey Exánime en Rasganorte y se enfrentó a la Horda de Garrosh Grito Infernal durante los años de conflicto. </description>
+    </item>
+    
     <item>
       <title>Mekkatorque</title>
       <link>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/mekkatorque/</link>
@@ -24,16 +61,6 @@
       <guid>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/jaina/</guid>
       <description>Jaina Valiente es la hechicera humana viva más poderosa de la actualidad. Pertenece al linaje de la Casa Valiente cuyos progenitores Daelin y Katherine han servido como gobernantes del reino humano de Kul Tiras. Hasta su reciente regreso a su hogar, ostentó importantes cargos como líder del Kirin Tor y gobernante de Theramore y de Dalaran.
 Jaina fue una de las más talentosas y destacadas hechiceras de Dalaran, a las órdenes del gran archimago Antonidas que la envió al comienzo de la Tercera Guerra al reino de Lordaeron con el fin de descubrir qué ocurría tras unas revueltas campesinas.</description>
-    </item>
-    
-    <item>
-      <title>Arthas</title>
-      <link>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/arthas/</link>
-      <pubDate>Mon, 27 Sep 2021 09:50:40 +0200</pubDate>
-      
-      <guid>https://sergiosoteras.github.io/ejercicio_hugo_clase/alianza/arthas/</guid>
-      <description>Arthas Menethil, Príncipe heredero de Lordaeron y Caballero de la Mano de Plata, era hijo del Rey Terenas Menethil II y heredero del trono. Fue entrenado como un paladín por Uther el Iluminado, y tenía una relación romántica con la hechicera Jaina Valiente.
-A pesar de su futuro prometedor, Arthas se convirtió en uno de los seres más poderosos y malvados de Azeroth. Tomando la hojarruna maldita Agonía de Escarcha, se convirtió en un caballero de la muerte de La Plaga y lideró a los no-muertos en la destrucción de Lordaeron, Quel&amp;rsquo;Thalas y Dalaran.</description>
     </item>
     
   </channel>

@@ -3,7 +3,7 @@ title: "Mekkatorque"
 date: 2021-09-28T10:39:04+02:00
 draft: false
 faccion: "alianza"
-image: "img/mekka.jpg"
+image: "mekkatorque/img/mekka.jpg"
 ---
 Los gnomos no han tenido un rey propiamente dicho desde hace más de 400 años. En su lugar prefieren elegir a los más altos oficiales para realizar las tareas que requiere el puesto. El cargo más importante de Gnomeregan, el Manitas Mayor, es el título que ostenta Gelbin Mekkatorque desde hace unos años. Gelbin es uno de los más reconocidos inventores de la historia, y se le honra como un líder justo y habilidoso. A los Manitas Mayores se les permite llevar grandes títulos durante el periodo en que permanecen en el cargo, tras lo cual regresan a los trabajos de campo. Cuando fue nombrado Manitas Mayor, Mekkatorque escogió el título de “Rey de los Gnomos”, que aunque suene un poco tonto, lo es más que lo que su propia mentalidad pueda sugerir (lo que no quita que esté bastante loco).
 

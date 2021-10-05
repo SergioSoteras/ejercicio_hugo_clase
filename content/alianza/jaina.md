@@ -3,7 +3,7 @@ title: "Jaina"
 date: 2021-09-27T10:41:31+02:00
 draft: false
 faccion: "alianza"
-image: "img/jaina.jpg"
+image: "jaina/img/jaina.jpg"
 ---
 Jaina Valiente es la hechicera humana viva más poderosa de la actualidad. Pertenece al linaje de la Casa Valiente cuyos progenitores Daelin y Katherine han servido como gobernantes del reino humano de Kul Tiras. Hasta su reciente regreso a su hogar, ostentó importantes cargos como líder del Kirin Tor y gobernante de Theramore y de Dalaran.
 
