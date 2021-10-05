@@ -13,4 +13,5 @@ Vol'jin estableció a la tribu en las Islas Eco, frente a las costas de Durotar.
 Después de ayudar a la Horda a repeler la invasión humana, Vol'jin llevó de vuelta a su tribu a las Islas del Eco . Por desgracia, un médico brujo llamado Zalazane usó magia negra para esclavizar a muchos de sus hermanos, obligando a Vol'jin a ordenar la retirada hacia el continente, temía que toda su tribu se convirtiera en víctima del brujo loco. Vol'jin entonces fundó la aldea Sen'jin, a lo largo de la costa sur de Durotar, como base con el que devolver el golpe a Zalazane. Sin embargo, fue llamado a Orgrimmar para ayudar a Thrall, dejando a la reconquista de la casa de su pueblo al Maestro Gadrin.
 
 A pesar de las incursiones de los infantes de marina de Kul Tiras persisten en Los Baldíos y Durotar , estas invasiones son menores amenazas y no están directamente dirigidas al Poblado Sen'jin.
+
 ![voljin](img/voljin.jpg)

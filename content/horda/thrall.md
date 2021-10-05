@@ -2,7 +2,7 @@
 title: "Thrall"
 date: 2021-09-27T09:50:26+02:00
 draft: false
-image: "thrall/img/thrall.jpg"
+image: "thrall/img/thrall1.jpg"
 ---
 
 
@@ -32,4 +32,4 @@ Tan pronto como cayó Daelin Proudmoore, Rexxar proclamó que la batalla había 
 
 Agradeciendo a Rexxar por todo lo que había hecho, Thrall le ofreció un lugar para establecerse permanentemente en Durotar, a lo que el semiogro educamente declinó. Rexxar poseía un carácter errante y su sitio no estaba tras los muros de una ciudad sino junto a la vida salvaje. Prometió a Thrall responder a la llamada de la Horda, siempre que necesitara de su ayuda y se despidió mientras la construcción de Orgrimmar seguía su curso. Por el momento todo iba bien.
 
-![thrall](img/thrall.jpg)
+![thrall](img/thrall1.jpg)

@@ -2,7 +2,7 @@
 title: "Garrosh"
 date: 2021-09-21T10:46:04+02:00
 draft: false
-image: "garrosh/img/garrosh.jpg"
+image: "garrosh/img/garrosh1.jpg"
 ---
 Garrosh Grito Infernal fue el Jefe de Guerra de la Horda, sucediendo a Thrall, tras la Devastación hasta que fue sucedido en el cargo por Vol'jin tras el Asedio de Orgrimmar. A lo largo de toda la historia de Azeroth, ha habido pocos mortales tan famosos como él.
 
@@ -12,4 +12,4 @@ Durante la nueva guerra contra la Alianza, la sed de poder de Garrosh lo corromp
 
 Anticipándose a la Legión Ardiente, Garrosh contactó con los clanes orcos y juntos formaron la Horda de Hierro, a la que dotó de maquinaria y conocimientos de la época actual. Más tarde, envió un ejército comandado por Zaela a través del Portal Oscuro para destruir Ventormenta pero el ataque fue repelido y los ejércitos de Azeroth penetraron en el Draenor alternativo donde Thrall lo derrotó en un mak'gora.
 
-![garrosh](img/garrosh.jpg)
+![garrosh](img/garrosh1.jpg)
